@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "recruit-db": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/bong/github/fastcampus-lecture/Part4_바이브코딩으로_MCP_server_구현하기/Chapter3_우리_회사_DB를_쿼리하는_MCP_SERVER_구현하기/recruit-mcp-server",
+        "run",
+        "server.py"
+      ],
+      "env": {
+        "DATABASE_URL": "postgresql://neondb_owner:npg_jQ9szLVv0PNp@ep-quiet-hill-afc09tsp-pooler.c-2.us-west-2.aws.neon.tech/neondb?channel_binding=require&sslmode=require"
+      }
+    }
+  }
+}

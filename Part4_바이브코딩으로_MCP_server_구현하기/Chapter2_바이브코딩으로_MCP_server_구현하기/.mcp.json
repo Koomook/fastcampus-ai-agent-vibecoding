@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "calculate": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "calculate-mcp-server",
+        "run",
+        "calculate-mcp-server"
+      ],
+      "env": {}
+    },
+    "random": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "random-mcp-server",
+        "run",
+        "random-mcp-server"
+      ],
+      "env": {}
+    }
+  }
+}

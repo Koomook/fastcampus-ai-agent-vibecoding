@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "notion": {
+      "type": "http",
+      "url": "https://mcp.notion.com/mcp"
+    },
+    "slack": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-slack"
+      ],
+      "env": {
+        "SLACK_BOT_TOKEN": "your-slack-bot-token-here",
+        "SLACK_TEAM_ID": "T09F3PG1H1T"
+      }
+    }
+  }
+}

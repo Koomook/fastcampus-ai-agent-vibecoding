@@ -1,0 +1,20 @@
+{
+    "mcpServers": {
+      "notion": {
+        "type": "http",
+        "url": "https://mcp.notion.com/mcp"
+      },
+      "playwright": {
+        "type": "stdio",
+        "command": "npx",
+        "args": [
+          "@playwright/mcp@latest"
+        ],
+        "env": {}
+      },
+      "linear": {
+        "type": "sse",
+        "url": "https://mcp.linear.app/sse"
+      }
+    }
+  }

@@ -1,0 +1,27 @@
+[project]
+name = "playwright-mcp-client"
+version = "0.1.0"
+description = "A Python MCP client for Playwright browser automation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+    "anthropic>=0.39.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+playwright-mcp-client = "playwright_mcp_client.__main__:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/playwright_mcp_client"]
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.23.0",
+]

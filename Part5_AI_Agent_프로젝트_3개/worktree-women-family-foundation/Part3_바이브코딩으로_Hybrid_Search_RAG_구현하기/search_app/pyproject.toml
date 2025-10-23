@@ -1,0 +1,14 @@
+[project]
+name = "search-app"
+version = "0.1.0"
+description = "Hybrid Search for Nonghyup Loan Products"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "psycopg2-binary>=2.9.9",
+    "openai>=1.54.0",
+    "python-dotenv>=1.0.0",
+    "langgraph>=0.2.74",
+    "langchain>=0.3.15",
+    "langchain-openai>=0.2.14",
+]

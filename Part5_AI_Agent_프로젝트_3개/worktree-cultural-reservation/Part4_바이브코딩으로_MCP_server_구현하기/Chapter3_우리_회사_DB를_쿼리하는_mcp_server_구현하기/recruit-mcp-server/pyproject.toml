@@ -1,0 +1,20 @@
+[project]
+name = "recruit-mcp-server"
+version = "0.1.0"
+description = "채용 서비스를 위한 MCP 서버"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.1.0",
+    "asyncpg>=0.29.0",
+]
+
+[project.scripts]
+recruit-mcp-server = "server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["."]

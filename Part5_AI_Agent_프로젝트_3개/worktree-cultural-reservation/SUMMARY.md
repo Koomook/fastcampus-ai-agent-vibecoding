@@ -1,0 +1,103 @@
+# Table of contents
+
+* [강의 소개](README.md)
+
+## Part 1. AI 에이전트와 Claude Code 기초
+
+* [Chapter 1. 강의 소개](Part1_AI_에이전트와_Claude_Code_기초/Chapter1_강의_소개/README.md)
+  * [Clip 1: 강의를 통해 얻어갈 수 있는 것](Part1_AI_에이전트와_Claude_Code_기초/Chapter1_강의_소개/Clip1_강의를_통해_얻어갈_수_있는_것.md)
+  * [Clip 2: CLI기반 Claude Code와 Codex로 할 수 있는 것](Part1_AI_에이전트와_Claude_Code_기초/Chapter1_강의_소개/Clip2_CLI기반_Claude_Code와_Codex로_할_수_있는_것.md)
+  * [Clip 3: AI 에이전트 MCP 기술이 주목받는 이유](Part1_AI_에이전트와_Claude_Code_기초/Chapter1_강의_소개/Clip3_AI_에이전트_MCP_기술이_주목받는_이유.md)
+  * [Clip 4: Docs와 실습코드 Github](Part1_AI_에이전트와_Claude_Code_기초/Chapter1_강의_소개/Clip4_Docs와_실습코드_Github.md)
+* [Chapter 2. Claude Code 설치와 설정](Part1_AI_에이전트와_Claude_Code_기초/Chapter2_Claude_Code_설치와_설정/README.md)
+  * [Clip 1: 설치와 기본 사용법](Part1_AI_에이전트와_Claude_Code_기초/Chapter2_Claude_Code_설치와_설정/Clip1_설치와_기본_사용법.md)
+  * [Clip 2: Local/Project/User 단위 MCP 연결하기](Part1_AI_에이전트와_Claude_Code_기초/Chapter2_Claude_Code_설치와_설정/Clip2_Local_Project_User_단위_MCP_연결하기.md)
+  * [Clip 3: CLAUDE.md, AGENTS.md 세팅하기](Part1_AI_에이전트와_Claude_Code_기초/Chapter2_Claude_Code_설치와_설정/Clip3_CLAUDE_md_AGENTS_md_세팅하기.md)
+* [Chapter 3. 커스터마이징 기초](Part1_AI_에이전트와_Claude_Code_기초/Chapter3_커스터마이징_기초/README.md)
+  * [Clip 1: Slash Command 만들기](Part1_AI_에이전트와_Claude_Code_기초/Chapter3_커스터마이징_기초/Clip1_Slash_Command_만들기.md)
+  * [Clip 2: Sub Agent 만들기](Part1_AI_에이전트와_Claude_Code_기초/Chapter3_커스터마이징_기초/Clip2_Sub_Agent_만들기.md)
+  * [Clip 3: Hooks, Output Styles 설계하기](Part1_AI_에이전트와_Claude_Code_기초/Chapter3_커스터마이징_기초/Clip3_Hooks_Output_Styles_설계하기.md)
+* [Chapter 4. Slack MCP 서버 실습](Part1_AI_에이전트와_Claude_Code_기초/Chapter4_Slack_MCP_서버_실습/README.md)
+  * [Clip 1: 클로드코드로 자동화하기](Part1_AI_에이전트와_Claude_Code_기초/Chapter4_Slack_MCP_서버_실습/Clip1_클로드코드로_자동화하기.md)
+  * [Clip 2: 슬래시 커맨드를 자동으로 업데이트하기](Part1_AI_에이전트와_Claude_Code_기초/Chapter4_Slack_MCP_서버_실습/Clip2_슬래시_커맨드를_자동으로_업데이트하기.md)
+
+## Part 2. Agent 개념과 아키텍처
+
+* [Chapter 1. Agent 개념 이해하기](Part2_Agent_개념과_아키텍처/Chapter1_Agent_개념_이해하기/README.md)
+  * [Clip 1: Agent vs Workflow 개념 이해하기](Part2_Agent_개념과_아키텍처/Chapter1_Agent_개념_이해하기/Clip1_Agent_vs_Workflow_개념_이해하기.md)
+  * [Clip 2: AI Agent architecture 자세히 살펴보기](Part2_Agent_개념과_아키텍처/Chapter1_Agent_개념_이해하기/Clip2_AI_Agent_architecture_자세히_살펴보기.md)
+* [Chapter 2. LLM API 호출 이해하기](Part2_Agent_개념과_아키텍처/Chapter2_LLM_API_호출_이해하기/README.md)
+  * [Clip 1: LLM API 이해하고 호출해보기](Part2_Agent_개념과_아키텍처/Chapter2_LLM_API_호출_이해하기/Clip1_LLM_API_이해하고_호출해보기.md)
+  * [Clip 2: 세부 파라미터 이해하기](Part2_Agent_개념과_아키텍처/Chapter2_LLM_API_호출_이해하기/Clip2_세부_파라미터_이해하기.md)
+  * [Clip 3: 프롬프트 작성 예시](Part2_Agent_개념과_아키텍처/Chapter2_LLM_API_호출_이해하기/Clip3_프롬프트_작성_예시.md)
+* [Chapter 3. MCP Client 사용하기](Part2_Agent_개념과_아키텍처/Chapter3_MCP_Client_사용하기/README.md)
+  * [Clip 1: Claude Code 등 에이전트가 어떻게 MCP를 활용하는지 보기](Part2_Agent_개념과_아키텍처/Chapter3_MCP_Client_사용하기/Clip1_Claude_Code_등_에이전트가_어떻게_MCP를_활용하는지_보기.md)
+  * [Clip 2: 오픈소스 AI Agent의 MCP 활용 코드 까보기](Part2_Agent_개념과_아키텍처/Chapter3_MCP_Client_사용하기/Clip2_오픈소스_AI_Agent의_MCP_활용_코드_까보기.md)
+  * [Clip 3: Tool 이해하기](Part2_Agent_개념과_아키텍처/Chapter3_MCP_Client_사용하기/Clip3_Tool_이해하기.md)
+  * [Clip 4: MCP Client 개념 이해하기](Part2_Agent_개념과_아키텍처/Chapter3_MCP_Client_사용하기/Clip4_MCP_Client_개념_이해하기.md)
+* [Chapter 4. 바이브코딩으로 MCP AI 에이전트 만들기](Part2_Agent_개념과_아키텍처/Chapter4_바이브코딩으로_MCP_AI_에이전트_만들기/README.md)
+  * [Clip 1: MCP Client 구현을 위한 PRD 프롬프트 만들기](Part2_Agent_개념과_아키텍처/Chapter4_바이브코딩으로_MCP_AI_에이전트_만들기/Clip1_MCP_Client_구현을_위한_PRD_프롬프트_만들기.md)
+  * [Clip 2: MCP Client 구현하기](Part2_Agent_개념과_아키텍처/Chapter4_바이브코딩으로_MCP_AI_에이전트_만들기/Clip2_MCP_Client_구현하기.md)
+
+## Part 3. 바이브코딩으로 Hybrid Search RAG 구현하기
+
+* [Chapter 1. 실습: Postgresql 기반 Hybrid Search 구현하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter1_실습_Postgresql_기반_Hybrid_Search_구현하기/README.md)
+  * [Clip 1: Vector Search 이해하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter1_실습_Postgresql_기반_Hybrid_Search_구현하기/Clip1_Vector_Search_이해하기.md)
+  * [Clip 2: BM25 이해하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter1_실습_Postgresql_기반_Hybrid_Search_구현하기/Clip2_BM25_이해하기.md)
+  * [Clip 3: PRD 프롬프트 만들기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter1_실습_Postgresql_기반_Hybrid_Search_구현하기/Clip3_PRD_프롬프트_만들기.md)
+  * [Clip 4: Hybrid Search 구현하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter1_실습_Postgresql_기반_Hybrid_Search_구현하기/Clip4_Hybrid_Search_구현하기.md)
+* [Chapter 2. 실습: Langgraph 기반 workflow RAG 구현하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter2_실습_Langgraph_기반_workflow_RAG_구현하기/README.md)
+  * [Clip 1: RAG 개념 이해하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter2_실습_Langgraph_기반_workflow_RAG_구현하기/Clip1_RAG_개념_이해하기.md)
+  * [Clip 2: PRD 프롬프트 만들기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter2_실습_Langgraph_기반_workflow_RAG_구현하기/Clip2_PRD_프롬프트_만들기.md)
+  * [Clip 3: Langgraph RAG 구현하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter2_실습_Langgraph_기반_workflow_RAG_구현하기/Clip3_Langgraph_RAG_구현하기.md)
+* [Chapter 3. 실습: 바이브코딩으로 Agentic RAG 구현하기](part-3.-hybrid-search-rag/chapter-3.-agentic-rag/README.md)
+  * [Clip 1: Workflow에서 Agentic 개념 복기하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter3_실습_바이브코딩으로_Agentic_RAG_구현하기/Clip1_Workflow에서_Agentic_개념_복기하기.md)
+  * [Clip 2: Hybrid Search와 Web Search를 툴로 사용하는 에이전트 구현하기](Part3_바이브코딩으로_Hybrid_Search_RAG_구현하기/Chapter3_실습_바이브코딩으로_Agentic_RAG_구현하기/Clip2_Hybrid_Search와_Web_Search를_툴로_사용하는_에이전트_구현하기.md)
+
+## Part 4. 바이브코딩으로 MCP server 구현하기
+
+* [Chapter 1. MCP server 이해하기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter1_MCP_server_이해하기/README.md)
+  * [Clip 1: MCP server의 개념과 구조 이해하기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter1_MCP_server_이해하기/Clip1_MCP_server의_개념과_구조_이해하기.md)
+  * [Clip 2: MCP server 코드 까보기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter1_MCP_server_이해하기/Clip2_MCP_server_코드_까보기.md)
+* [Chapter 2. 바이브코딩으로 MCP server 구현하기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/README.md)
+  * [Clip 1: 계산기와 random MCP server 만들기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/Clip1_계산기와_random_MCP_server_만들기.md)
+  * [Clip 2: Claude Code에 연결하고 동작 확인하기](Part4_바이브코딩으로_MCP_server_구현하기/Chapter2_바이브코딩으로_MCP_server_구현하기/Clip2_Claude_Code에_연결하고_동작_확인하기.md)
+* [Chapter 3. 우리 회사 DB를 쿼리하는 MCP SERVER 구현하기](part-4.-mcp-server/chapter-3.-db-mcp-server/README.md)
+  * [Clip 1: Postgresql MCP Server 구현체 보기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-1-postgresql-mcp-server.md)
+  * [Clip 2: Mock 스키마 만들고 데이터 합성해서 집어넣기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-2-mock.md)
+  * [Clip 3: DB Write Tool 설계하기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-3-db-write-tool.md)
+  * [Clip 4: 클로드에 연결해서 써보기](part-4.-mcp-server/chapter-3.-db-mcp-server/clip-4.md)
+
+## Part 5. AI Agent 프로젝트 3개
+
+* [Chapter 1. 바이브코딩으로 CS 슬랙봇 구현하기](Part5_AI_Agent_프로젝트_3개/Chapter1_바이브코딩으로_CS_슬랙봇_구현하기/README.md)
+* [Chapter 2. 바이브코딩으로 회사 정보 조회하는 MCP SERVER 만들기](Part5_AI_Agent_프로젝트_3개/Chapter2_바이브코딩으로_회사_정보_조회하는_MCP_SERVER_만들기/README.md)
+  * [Clip 1: data.go.kr에서 국민연금공단 api 살펴보기](Part5_AI_Agent_프로젝트_3개/Chapter2_바이브코딩으로_회사_정보_조회하는_MCP_SERVER_만들기/Clip1_data.go.kr에서_국민연금공단_api_살펴보기.md)
+  * [Clip 2: api mcp server 구현 프롬프트 작성하기](Part5_AI_Agent_프로젝트_3개/Chapter2_바이브코딩으로_회사_정보_조회하는_MCP_SERVER_만들기/Clip2_api_mcp_server_구현_프롬프트_작성하기.md)
+  * [Clip 3: mcp server 구현하기](Part5_AI_Agent_프로젝트_3개/Chapter2_바이브코딩으로_회사_정보_조회하는_MCP_SERVER_만들기/Clip3_mcp_server_구현하기.md)
+  * [Clip 4: Claude에 연결해서 사용하면서 업데이트하기](Part5_AI_Agent_프로젝트_3개/Chapter2_바이브코딩으로_회사_정보_조회하는_MCP_SERVER_만들기/Clip4_Claude에_연결해서_사용하면서_업데이트하기.md)
+* [Chapter 3. 바이브코딩으로 공공 MCP 자동 생성하고 에이전트 연결하기](Part5_AI_Agent_프로젝트_3개/Chapter3_바이브코딩으로_공공_MCP_자동_생성하고_에이전트_연결하기/README.md)
+  * [Clip 1: MCP 구현체 이해하기](Part5_AI_Agent_프로젝트_3개/Chapter3_바이브코딩으로_공공_MCP_자동_생성하고_에이전트_연결하기/Clip1_MCP_구현체_이해하기.md)
+  * [Clip 2: MCP 서버 자동 생성 에이전틱 프로세스 만들기](Part5_AI_Agent_프로젝트_3개/Chapter3_바이브코딩으로_공공_MCP_자동_생성하고_에이전트_연결하기/Clip2_MCP_서버_자동_생성_에이전틱_프로세스_만들기.md)
+  * [Clip 3: data.go.kr API 자동 생성하기](Part5_AI_Agent_프로젝트_3개/Chapter3_바이브코딩으로_공공_MCP_자동_생성하고_에이전트_연결하기/Clip3_data.go.kr_API_자동_생성하기.md)
+  * [Clip 4: Smithery 스타일 웹페이지 구현하기](Part5_AI_Agent_프로젝트_3개/Chapter3_바이브코딩으로_공공_MCP_자동_생성하고_에이전트_연결하기/Clip4_Smithery_스타일_웹페이지_구현하기.md)
+
+## Part 6. 바이브코딩과 AI agent best practice
+
+* [Chapter 1. Best practice](Part6_바이브코딩과_AI_agent_best_practice/Chapter1_Best_practice/README.md)
+  * [Clip 1: best practice 찾아서 이해하기](Part6_바이브코딩과_AI_agent_best_practice/Chapter1_Best_practice/Clip1_best_practice_찾아서_이해하기.md)
+  * [Clip 2: 바이브코딩 팁을 자동화시키기](Part6_바이브코딩과_AI_agent_best_practice/Chapter1_Best_practice/Clip2_바이브코딩_팁을_자동화시키기.md)
+  * [Clip 3: AI Agent가 사용할 툴은 AI로 만들어야 하는 이유](Part6_바이브코딩과_AI_agent_best_practice/Chapter1_Best_practice/Clip3_AI_Agent가_사용할_툴은_AI로_만들어야_하는_이유.md)
+* [Chapter 2. 바이브코딩을 위한 Context Prompt Engineering](Part6_바이브코딩과_AI_agent_best_practice/Chapter2_바이브코딩을_위한_Context_Prompt_Engineering/README.md)
+  * [Clip 1: Context Prompt Engineering 이해하기](Part6_바이브코딩과_AI_agent_best_practice/Chapter2_바이브코딩을_위한_Context_Prompt_Engineering/Clip1_Context_Prompt_Engineering_이해하기.md)
+  * [Clip 2: AI의 PM이 되기](Part6_바이브코딩과_AI_agent_best_practice/Chapter2_바이브코딩을_위한_Context_Prompt_Engineering/Clip2_AI의_PM이_되기.md)
+* [Chapter 3. 실습: 병렬 작업을 위한 git worktree](Part6_바이브코딩과_AI_agent_best_practice/Chapter3_실습_병렬_작업을_위한_git_worktree/README.md)
+  * [Clip 1: git worktree 이해](Part6_바이브코딩과_AI_agent_best_practice/Chapter3_실습_병렬_작업을_위한_git_worktree/Clip1_git_worktree_이해.md)
+  * [Clip 2: worktree 자동화 스크립트 생성하기](Part6_바이브코딩과_AI_agent_best_practice/Chapter3_실습_병렬_작업을_위한_git_worktree/Clip2_worktree_자동화_스크립트_생성하기.md)
+  * [Clip 3: 티켓 자동 생성하고 병렬 처리하기](Part6_바이브코딩과_AI_agent_best_practice/Chapter3_실습_병렬_작업을_위한_git_worktree/Clip3_티켓_자동_생성하고_병렬_처리하기.md)
+* [Chapter 4. Focus on Leaf Nodes](Part6_바이브코딩과_AI_agent_best_practice/Chapter4_Focus_on_Leaf_Nodes/README.md)
+  * [Clip 1: 바이브코딩의 리스크를 낮추기 위한 feature 선정 방법](Part6_바이브코딩과_AI_agent_best_practice/Chapter4_Focus_on_Leaf_Nodes/Clip1_바이브코딩의_리스크를_낮추기_위한_feature_선정_방법.md)
+  * [Clip 2: 바이브코딩으로 프로젝트를 시작하면 유리한 점](Part6_바이브코딩과_AI_agent_best_practice/Chapter4_Focus_on_Leaf_Nodes/Clip2_바이브코딩으로_프로젝트를_시작하면_유리한_점.md)
+* [Chapter 5. 업무 자동화 바이브코딩하는 Agent Skill](part-6.-ai-agent-best-practice/chapter-5.-agent-skill/README.md)
+  * [Clip 1: Claude Skills의 프롬프트와 코드를 동시에 사용하는 자동화 살펴보기](Part6_바이브코딩과_AI_agent_best_practice/Chapter5_업무_자동화_바이브코딩하는_Agent_Skill/Clip1_Claude_Skills의_프롬프트와_코드를_동시에_사용하는_자동화_살펴보기.md)
+  * [Clip 2: Skill 만들고 Claude.ai에 추가하기](Part6_바이브코딩과_AI_agent_best_practice/Chapter5_업무_자동화_바이브코딩하는_Agent_Skill/Clip2_Skill_만들고_Claude.ai에_추가하기.md)

@@ -1,0 +1,16 @@
+[project]
+name = "calculate-mcp-server"
+version = "0.1.0"
+description = "A simple MCP server for basic arithmetic operations"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+calculate-mcp-server = "calculate_mcp_server.server:main"

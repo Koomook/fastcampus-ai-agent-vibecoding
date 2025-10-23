@@ -1,0 +1,52 @@
+[project]
+name = "fastcampus-lecture"
+version = "1.0.0"
+description = "FastCampus Lecture: AI Agent and Claude Code 시리즈"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+
+[tool.uv]
+# 개발 시 필요한 의존성
+dev-dependencies = [
+    "pytest>=8.0.0",
+    "pytest-asyncio>=0.26.0",
+    "ruff>=0.9.7",
+    "pyright>=1.1.398",
+    "black>=24.0.0",
+]
+
+[tool.uv.workspace]
+members = ["Part5_AI_Agent_프로젝트_3개/Chapter2_바이브코딩으로_서울시_문화행사_조회하는_MCP_SERVER_만들기/seoul-culture-mcp"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+extend-include = ["*.ipynb"]
+exclude = [
+    ".venv",
+    ".git",
+    "**/__pycache__",
+    "**/node_modules",
+    "**/dist",
+    "**/build",
+    "**/env",
+    "**/.ruff_cache",
+    "**/.venv",
+    "**/.ipynb_checkpoints",
+    "venv",
+]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I"]
+ignore = ["E501", "E741"]
+
+[tool.ruff.lint.isort]
+lines-after-imports = 2
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
+asyncio_mode = "auto"

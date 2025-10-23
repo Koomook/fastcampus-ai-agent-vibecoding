@@ -1,0 +1,16 @@
+[project]
+name = "random-mcp-server"
+version = "0.1.0"
+description = "A simple MCP server for random number generation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp>=1.0.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+random-mcp-server = "random_mcp_server.server:main"

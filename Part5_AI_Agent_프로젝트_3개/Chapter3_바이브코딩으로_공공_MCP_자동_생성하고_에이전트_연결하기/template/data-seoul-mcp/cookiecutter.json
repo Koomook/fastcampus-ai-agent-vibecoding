@@ -1,0 +1,14 @@
+{
+  "_copy_without_render": [
+    ".gitignore",
+    ".pre-commit-config.yaml"
+  ],
+  "author_email": "githubusername@users.noreply.github.com",
+  "author_name": "Your Name",
+  "api_name": "Seoul Cultural Events",
+  "api_name_korean": "문화행사정보",
+  "api_description": "Seoul city cultural events and space information",
+  "project_domain": "CulturalEvents",
+  "description": "A Seoul Data MCP server for {{ cookiecutter.api_name_korean }} ({{ cookiecutter.api_name }})",
+  "instructions": "Use this MCP server to search and retrieve Seoul city cultural events information including event schedules, locations, cultural spaces, and transportation information. The server provides tools to query event data by genre, date range, district, and other filters."
+}
