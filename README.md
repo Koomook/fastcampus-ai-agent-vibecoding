@@ -1,3 +1,16 @@
+# FastCampus AI Agent 바이브코딩 강의
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 코드 및 자료 GitHub: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # 강의 커리큘럼
 
 ## Part 1. AI 에이전트와 Claude Code 기초
