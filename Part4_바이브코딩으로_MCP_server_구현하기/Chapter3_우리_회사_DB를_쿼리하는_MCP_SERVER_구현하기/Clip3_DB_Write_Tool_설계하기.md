@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 3: DB Write Tool 설계하기
 
 ## 학습 목표
@@ -210,3 +223,16 @@ sequenceDiagram
 - [ ] 화이트리스트 방식의 보안 장점 파악
 - [ ] update_candidate tool의 설계 의도 학습
 - [ ] 변경 가능/불가능 필드 구분 기준 이해
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

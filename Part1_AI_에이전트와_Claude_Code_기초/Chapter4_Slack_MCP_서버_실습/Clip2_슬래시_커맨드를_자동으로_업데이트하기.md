@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 2: 고급 자동화 - 스마트 분석과 슬래시 커맨드
 
 ## 📋 학습 개요
@@ -310,3 +323,16 @@ Claude Code 대화창에서 슬래시 커맨드를 실행:
 
 ### 공식 문서
 - [Claude Code Slash Commands 가이드](https://docs.claude.com/ko/docs/claude-code/slash-commands)
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

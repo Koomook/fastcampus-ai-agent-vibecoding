@@ -6,7 +6,8 @@
 - 이메일: bong@dio.so
 
 ## 강의 자료
-- 강의 코드 및 자료 GitHub: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
 - FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
 
 ---

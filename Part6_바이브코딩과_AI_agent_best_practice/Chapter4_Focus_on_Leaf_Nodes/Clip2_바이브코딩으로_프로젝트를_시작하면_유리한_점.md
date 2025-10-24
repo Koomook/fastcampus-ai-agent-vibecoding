@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 2: 바이브코딩으로 프로젝트를 시작하면 유리한 점
 
 ## 학습 목표
@@ -304,3 +317,16 @@ graph LR
     style F fill:#ccffcc
     style G fill:#ccffcc
 ```
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

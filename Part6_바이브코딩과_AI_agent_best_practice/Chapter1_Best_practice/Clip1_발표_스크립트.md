@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 1 발표 스크립트: CLAUDE.md와 AGENTS.md Best Practice
 
 > **예상 소요 시간**: 8-10분
@@ -242,3 +255,16 @@ cargo test -p codex-tui
 
 **Q4: 팀원들도 이 파일을 읽나요?**
 - A: 네! AI뿐만 아니라 신규 팀원의 온보딩 자료로도 유용합니다. 명령어가 구체적이라 학습 곡선이 낮습니다.
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

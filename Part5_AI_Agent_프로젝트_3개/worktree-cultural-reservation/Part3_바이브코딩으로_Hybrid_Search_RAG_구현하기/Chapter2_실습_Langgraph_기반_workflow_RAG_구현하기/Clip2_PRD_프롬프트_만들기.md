@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 2: Langgraph RAG 구현을 위한 PRD 프롬프트 만들기
 
 ## 학습 목표
@@ -216,3 +229,16 @@ uv run python langgraph_rag.py "질문" [--debug]
 
 **참고 자료:**
 - Langgraph Documentation: https://langchain-ai.github.io/langgraph/
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

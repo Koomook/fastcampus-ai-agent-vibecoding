@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 3: CLAUDE.md와 AGENTS.md 세팅하기 - AI 에이전트 메모리 설계
 
 ## 📋 학습 개요
@@ -172,3 +185,16 @@ code .claude/CLAUDE.md
 - [AGENTS.md 공식 사이트](https://agents.md/)
 - [AGENTS.md GitHub 저장소](https://github.com/openai/agents.md)
 - [Claude Code 공식 문서](https://docs.claude.com/en/docs/claude-code/overview)
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

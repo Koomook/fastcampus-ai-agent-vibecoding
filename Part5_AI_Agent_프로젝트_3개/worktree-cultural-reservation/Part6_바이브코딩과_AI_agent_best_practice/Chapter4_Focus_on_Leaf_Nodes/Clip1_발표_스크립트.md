@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 1 발표 스크립트: 바이브코딩의 리스크를 낮추기 위한 feature 선정 방법
 
 **발표 시간:** 5-7분
@@ -266,3 +279,16 @@ AI가 1주일 분량의 코드를 작성할 때, 여러분이 모든 라인을 �
 ### 청중 참여
 "여러분, 혹시 이런 경험 있으신가요?" - 손들기 유도
 "3개 Feature 중 어떤 게 Leaf Node일까요?" - 퀴즈 형식
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

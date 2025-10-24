@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 3: Hooks, Output Styles 설계하기
 
 ## 학습 목표
@@ -336,3 +349,15 @@ Claude의 도움을 받아 새로운 Output Style 생성:
 - [Claude Code Hooks 공식 문서](https://docs.claude.com/en/docs/claude-code/customization/hooks)
 - [Claude Code Output Styles 공식 문서](https://docs.claude.com/en/docs/claude-code/customization/output-styles)
 - [Claude Code Hooks Mastery](https://github.com/disler/claude-code-hooks-mastery)
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

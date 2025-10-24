@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 4: MCP Client 개념 이해하기
 
 ## 학습 목표
@@ -104,3 +117,16 @@ async def get_database_schema():
 - [MCP Clients](https://modelcontextprotocol.io/clients) - MCP 클라이언트 목록 및 기능 지원 현황
 - [MCP Client Concepts](https://modelcontextprotocol.io/docs/learn/client-concepts) - MCP 클라이언트 개념 문서
 - [Building an MCP Client](https://modelcontextprotocol.io/docs/develop/build-client) - MCP 클라이언트 개발 가이드
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

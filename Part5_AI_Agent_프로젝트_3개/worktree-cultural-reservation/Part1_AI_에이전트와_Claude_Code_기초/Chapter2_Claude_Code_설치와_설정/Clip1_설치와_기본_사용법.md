@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 1: Claude Code 설치와 기본 사용법
 
 ## 📋 학습 개요
@@ -239,3 +252,16 @@ git checkout -b feature/new-feature
 - [Claude Code 개요](https://docs.claude.com/ko/docs/claude-code/overview) - Claude Code의 전체 기능과 특징
 - [Claude Code 빠른 시작](https://docs.claude.com/ko/docs/claude-code/quickstart) - 설치부터 첫 실행까지 단계별 가이드
 - [일반적인 워크플로우](https://docs.claude.com/ko/docs/claude-code/common-workflows) - 실전 사용 패턴과 고급 기능
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

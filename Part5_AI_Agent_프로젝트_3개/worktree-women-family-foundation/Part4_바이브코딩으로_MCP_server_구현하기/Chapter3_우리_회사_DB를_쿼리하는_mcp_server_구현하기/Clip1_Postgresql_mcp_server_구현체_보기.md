@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 1: PostgreSQL MCP Server 구현체 보기
 
 ## 학습 목표
@@ -211,3 +224,16 @@ PostgreSQL MCP Server가 읽기 전용 트랜잭션만 지원하는 이유:
 ## 다음 학습 내용
 
 다음 Clip에서는 실제로 채용 서비스 데이터베이스를 Neon에 구축하고, mock 데이터를 생성하여 이 시나리오를 직접 실습해볼 것입니다.
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

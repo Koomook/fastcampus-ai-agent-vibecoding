@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 1: 클로드코드로 자동화하기 - 슬랙 메시지 읽고 Notion에 태스크 저장
 
 ## 📋 학습 개요
@@ -537,3 +550,16 @@ Notion의 "Tasks from Slack" 데이터베이스에 저장해줘.
 ### GitHub 저장소
 - [MCP Servers (공식)](https://github.com/modelcontextprotocol/servers)
 - [Slack MCP Server (Archived)](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack)
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

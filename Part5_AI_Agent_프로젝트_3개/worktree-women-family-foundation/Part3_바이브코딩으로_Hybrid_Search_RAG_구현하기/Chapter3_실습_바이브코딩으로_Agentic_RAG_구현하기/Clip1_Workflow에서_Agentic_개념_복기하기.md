@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 1: Workflow에서 Agentic 개념 복기하기
 
 ## 학습 목표
@@ -423,3 +436,16 @@ cd ai-sdk-preview-python-streaming
 * [Tavily Search API Documentation](https://docs.tavily.com/documentation/api-reference/endpoint/search)
 * [OpenAI Function Calling Guide](https://platform.openai.com/docs/guides/function-calling)
 * [Vercel AI SDK Python Streaming](https://github.com/vercel-labs/ai-sdk-preview-python-streaming)
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

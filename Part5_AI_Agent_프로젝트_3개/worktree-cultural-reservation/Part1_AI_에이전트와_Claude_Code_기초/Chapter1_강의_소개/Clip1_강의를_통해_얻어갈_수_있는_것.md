@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 1: 강의를 통해 얻어갈 수 있는 것
 
 ## Clip 1: 강의를 통해 얻어갈 수 있는 것
@@ -265,3 +278,16 @@ Part 4~6: 체계적 개발 방식
 | 6-4-2 | 바이브코딩으로 프로젝트를 시작하면 유리한 점                                   |   ☑   |    ☐    |      ☐      |      ☐      |
 | 6-5-1 | 클로드코드를 나만의 AI 에이전트로 사용하기                                   |   ☐   |    ☑    |      ☐      |      ☐      |
 | 6-5-2 | 메타 프롬프트                                                    |   ☐   |    ☑    |      ☐      |      ☐      |
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 3 발표 스크립트: AI Agent가 사용할 툴은 AI로 만들어야 하는 이유
 
 ## 🎯 발표 개요
@@ -378,3 +391,16 @@ A: 네, LLM 기반 에이전트라면 모두 해당됩니다.
 OpenAI Function Calling, Anthropic Tool Use, LangChain Agents 등
 툴을 사용하는 모든 프레임워크에서 이 원칙이 적용됩니다.
 "워크플로우 중심 설계"는 프레임워크와 무관한 보편적 원칙입니다.
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

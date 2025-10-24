@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 1: LLM API 이해하고 호출해보기
 
 ## 학습 목표
@@ -210,3 +223,16 @@ if __name__ == "__main__":
 | **고급 기능**   | 직접 구현 필요         | 템플릿, 체인, 메모리 등 내장 |
 | **사용 사례**   | 간단한 LLM 호출       | 복잡한 AI 애플리케이션     |
 | **코드 재사용성** | 낮음               | 높음 (템플릿, 체인)      |
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

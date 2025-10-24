@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 2: CLI기반 Claude Code와 Codex로 할 수 있는 것
 
 ## 학습 목표
@@ -172,3 +185,16 @@ Claude Code가 파일 시스템과 bash에 접근할 수 있다는 것은:
 3. **커스터마이징 가능**: System prompt 튜닝으로 팀에 최적화
 4. **패러다임 변화**: 코드를 덜 보고 의도에 집중
 5. **자동화의 끝판왕**: 반복 작업은 모두 자동화 가능
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 2: AI Agent architecture 자세히 살펴보기
 
 ## 학습 목표
@@ -317,3 +330,16 @@ graph TD
 * [Anthropic - multi-agent-research-system](https://www.anthropic.com/engineering/multi-agent-research-system)
 * [Cognition - Dont-build-multi-agents](https://cognition.ai/blog/dont-build-multi-agents#a-theory-of-building-long-running-agents)
 * [OpenAI - AgentKit](https://openai.com/index/introducing-agentkit/)
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent

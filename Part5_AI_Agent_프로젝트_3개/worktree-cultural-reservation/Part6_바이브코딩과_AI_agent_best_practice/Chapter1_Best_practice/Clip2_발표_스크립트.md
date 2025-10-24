@@ -1,3 +1,16 @@
+---
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
+
+---
+
 # Clip 2: 바이브코딩 팁을 자동화시키기 - 발표 스크립트
 
 ## 오프닝 (30초)
@@ -218,3 +231,16 @@ UI 버그를 보여주거나 다른 사이트 디자인을 참고할 때 스크�
 2. "Git reset --hard를 자주 사용해도 괜찮나요?"
 3. "어떤 AI 모델을 주로 사용하시나요?"
 4. "Leaf Nodes를 찾는 자동화 도구가 있나요?"
+
+
+---
+
+## 강사 정보
+- 작성자: 정구봉
+- LinkedIn: https://www.linkedin.com/in/gb-jeong/
+- 이메일: bong@dio.so
+
+## 강의 자료
+- 강의 자료: https://goobong.gitbook.io/fastcampus
+- Github: https://github.com/Koomook/fastcampus-ai-agent-vibecoding
+- FastCampus 강의 주소: https://fastcampus.co.kr/biz_online_vibeagent
